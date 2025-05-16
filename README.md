@@ -2,6 +2,10 @@
 
 A modern, responsive portfolio website with a hip-hop aesthetic, designed for creative professionals who want to showcase their work with style and attitude.
 
+## 🌐 Live Demo
+
+Check out the live demo of this portfolio template: [View Demo](https://colaguevz.github.io/Sample-Portfolio--HipHop-Theme-/)
+
 ## 🎵 Features
 
 - **Responsive Design**: Looks great on all devices from mobile to desktop
