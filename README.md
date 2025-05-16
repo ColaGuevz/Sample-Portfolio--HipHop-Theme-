@@ -1,4 +1,4 @@
-# HipHop-Themed Portfolio Website
+#  
 
 A modern, responsive portfolio website with a hip-hop aesthetic, designed for creative professionals who want to showcase their work with style and attitude.
 
